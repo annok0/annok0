@@ -1,5 +1,3 @@
-Olá! Eu sou um programador em formação e atualmente estou cursando o **Curso Técnico em [Analise e desenvolvimento de sistemas]** no **SENAI**. Neste repositório, você encontrará projetos e atividades que venho desenvolvendo ao longo do curso, bem como algumas experiências e aprendizados extras que estou acumulando.
-
 
 <!--
 **annok0/annok0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
